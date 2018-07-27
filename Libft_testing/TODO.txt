@@ -1,0 +1,4 @@
+memmove
+memchr
+memcmp
+strnstr
